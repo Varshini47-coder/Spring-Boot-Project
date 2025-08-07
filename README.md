@@ -26,7 +26,7 @@ This is a simple Spring Boot CRUD API project to manage Employee Details. It sup
 
 -Postman (for testing)
 
-Maven
+-Maven
 
 # Main Project Files
 File / Folder	Purpose
