@@ -49,7 +49,11 @@ Edit
 src/main/java/com/example/employeemanagement/
 │
 ├── model/Employee.java
+
 ├── repository/EmployeeRepository.java
+
 ├── service/EmployeeService.java
+
 ├── controller/EmployeeController.java
+
 └── EmployeeManagementApplication.java
