@@ -3,15 +3,15 @@ A simple Spring Boot REST API to manage employee details with full CRUD operatio
 # Project Description
 This is a simple Spring Boot CRUD API project to manage Employee Details. It supports:
 
-# Create – Add new employee(post)
+ Create – Add new employee(post)
 
-# Read – View employee(get)
+ Read – View employee(get)
 
-# Update – Edit employee details(put)
+ Update – Edit employee details(put)
 
-# Delete – Remove employee(delete)
+ Delete – Remove employee(delete)
 
-⚙️**Tools & Technologies Used**
+# Tools & Technologies Used
 -Java
 
 -Spring Boot
@@ -28,7 +28,7 @@ This is a simple Spring Boot CRUD API project to manage Employee Details. It sup
 
 Maven
 
-📁** Main Project Files**
+# Main Project Files
 File / Folder	Purpose
 Employee.java	Entity class mapped to database table
 EmployeeRepository.java	Repository interface for DB access
@@ -37,7 +37,7 @@ EmployeeController.java	REST API endpoints
 application.properties	DB configuration
 EmployeeManagementApplication.java	Main Spring Boot class
 
-**🗂 Project Structure**
+# Project Structure
 swift
 Copy
 Edit
