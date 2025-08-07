@@ -31,10 +31,15 @@ This is a simple Spring Boot CRUD API project to manage Employee Details. It sup
 # Main Project Files
 File / Folder	Purpose
 Employee.java	Entity class mapped to database table
+
 EmployeeRepository.java	Repository interface for DB access
+
 EmployeeService.java	Business logic layer
+
 EmployeeController.java	REST API endpoints
+
 application.properties	DB configuration
+
 EmployeeManagementApplication.java	Main Spring Boot class
 
 # Project Structure
